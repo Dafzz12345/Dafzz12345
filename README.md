@@ -11,14 +11,11 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Dafzz12345&theme=nightowl&border_radius=3&hide_total_contributions=true&hide_longest_streak=true&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dafzz12345&theme=nightowl&border_radius=3&hide_total_contributions=true&hide_longest_streak=true&hide_border=true" alt="GitHub Streak" width="100%" />
 </a>
 
-<br/>
-
-`// Consistency is the key to success`
-
 </div>
+
 
 ---
 
