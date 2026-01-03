@@ -8,11 +8,7 @@
 
 ### 🟢 System-Stats.core
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dafzz12345&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dafzz12345&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=ffffff" alt="General Stats" width="400" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dafzz12345&theme=nightowl" alt="GitHub Streak" /></a>
 
 ---
 
