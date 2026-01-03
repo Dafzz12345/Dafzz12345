@@ -27,7 +27,7 @@
 
 ---
 
-### 👾 My Friends
+### 👾 😜
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="60" />
