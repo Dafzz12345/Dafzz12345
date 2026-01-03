@@ -1,39 +1,33 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/ugynsp.jpg" width="100%" style="border-radius: 15px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=DAFA+OFFICIAL;ACCESS+GRANTED+..." alt="Header" />
 
-# ⚡ Profile Card | Dafa
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Hi%2C+Welcome+To+My+Profile+❤;I'm+a+Beginner+Coder;Nice+To+Meet+You!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A29BFE&center=true&vCenter=true&width=500&lines=//+Initializing+Link+Interface...;Status:+Online;Type:+'help'+for+more+info" alt="Typing SVG" />
 
 ---
 
-### ☎ Connect with me
+### 🟢 System-Stats.core
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895393325895)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammad_Dafa_Pratama)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dafapratama950)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DafaPratama2009)
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dafzz12345&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dafzz12345&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dafzz12345&color=blueviolet&style=flat-square&label=VISITOR+COUNT" alt="Visitor Count" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dafzz12345&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=ffffff" alt="General Stats" width="400" />
 
 ---
 
-### 👾 😜
+### 🌐 Social-Connect.log
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="60" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="60" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="60" />
-</div>
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895393325895) 
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dafa_pratama1)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dafapratama950)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DafaPratama2009)
 
+---
+
+### 👾 Terminal-Activity.log
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cyber%20Martian.png" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="60" />
 
 </div>
