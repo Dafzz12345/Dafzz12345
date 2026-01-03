@@ -8,7 +8,7 @@
 
 ### 🟢 System-Stats.core
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dafzz12345&theme=nightowl" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dafzz12345&theme=nightowl)](https://git.io/streak-stats)
 
 ---
 
