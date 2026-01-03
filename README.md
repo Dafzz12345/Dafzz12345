@@ -6,7 +6,7 @@
 
 ---
 
-### 🟢 System-Streak🔥🔥🔥🔥
+### 🟢 System-Streak🔥🔥🔥
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🌐 Social-Connect.log
+### 🌐 Social-Connect
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895393325895) 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dafa_pratama1)
@@ -28,7 +28,7 @@
 
 ---
 
-### 👾 Terminal-Activity.log
+### 👾 Terminal-Activity
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="60" />
 
