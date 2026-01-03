@@ -8,7 +8,12 @@
 
 ### 🟢 System-Stats.core
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dafzz12345&theme=nightowl)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dafzz12345&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 
 ---
 
