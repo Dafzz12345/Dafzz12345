@@ -29,8 +29,11 @@
 
 ### 👾 My Friends
 
-<img src="https://files.catbox.moe/97a5m4.gif" width="60"/>
-<img src="https://files.catbox.moe/97a5m4.gif" width="60"/>
-<img src="https://files.catbox.moe/97a5m4.gif" width="60"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="60" />
+</div>
+
 
 </div>
